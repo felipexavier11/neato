@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "neato"
+  site-url: "https://felipexavier11.github.io/neato"
+  description: "An implementation of the NeuroEvolution of Augmenting Topologies (NEAT) algorithm"
+  repo-branch: main
+  repo-url: "https://github.com/felipexavier11/neato"
